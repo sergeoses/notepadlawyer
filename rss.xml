@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Notepad Lawyer</title>
+        <link>https://notesforlawyer.pp.ua/</link>
+        <description>lawyerinfo</description>
+        <lastBuildDate>2026-02-17T18:52:16.506Z</lastBuildDate>
+        <generator>Postalgic</generator>
+        <docs>https://www.rssboard.org/rss-specification</docs>
+        <managingEditor>Serhii Sarnavskyi</managingEditor>
+        
+        <item>
+            <title>Hello world </title>
+            <link>https://notesforlawyer.pp.ua/2026/02/17/hello-world/</link>
+            <description><![CDATA[<p>hello</p>]]></description>
+            <pubDate>2026-02-17T15:07:04.298Z</pubDate>
+            <guid isPermaLink="true">https://notesforlawyer.pp.ua/2026/02/17/hello-world/</guid>
+            <author>sarnavskyiserhii@gmail.com (Serhii Sarnavskyi)</author>
+        </item>
+    </channel>
+</rss>
